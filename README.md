@@ -72,10 +72,10 @@ SAMPLE CSV FILE TO UPLOAD CAN BE FOUND HERE: https://data.brla.gov/api/v3/views/
 
 ## Screenshots
   
-![1](screenshots/Screenshot 2026-08-03 at 5.17.27 PM.png)
+![1](screenshots/1.png)
 
-![2](screenshots/Screenshot 2026-08-03 at 5.17.35 PM.png)
+![2](screenshots/2.png)
 
-![3](screenshots/Screenshot 2026-08-03 at 5.17.39 PM.png)
+![3](screenshots/3.png)
 
-![4](screenshots/Screenshot 2026-08-03 at 5.17.42 PM.png)
+![4](screenshots/4.png)
